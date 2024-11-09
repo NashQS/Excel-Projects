@@ -16,7 +16,7 @@ Quantification and Estimation of a residential building using using Excel. Excel
 ![BILLS OF QUANTITIES](https://github.com/user-attachments/assets/63490c34-cd22-49c8-bc9a-f20866ca8fdb)
 
 ---
-### CONSTRUCTION PROJECT DASHBOARD(
+### CONSTRUCTION PROJECT DASHBOARD
 ![DASHBOARD](https://github.com/user-attachments/assets/9a13b287-28b7-4463-95a2-1a4c48951e55)
 
 ---
